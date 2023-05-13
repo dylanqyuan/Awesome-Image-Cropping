@@ -3,5 +3,5 @@
  
 
 #### 2022
-+ Luigi Celona, Marco Leonardi, Palol Napoletano, Alessandro Rozza, "*Composition and style Attributes Guided Iamge Aesthetic Assessment*", **_TIP 2022_**.
++ Luigi Celona, Marco Leonardi, Palol Napoletano, Alessandro Rozza, "*Composition and style Attributes Guided Iamge Aesthetic Assessment*", **_TIP 2022_**. [[PDF]](https://arxiv.org/abs/2111.04647)
 + Shijia Ni, Feng Shao, Xiongli Chai, Hangwei Chen, Yo-Sung Ho, "*Composition-Guided Neural Network for Image Cropping Aesthetic Assessment*",  **_TMM 2022_**. [[PDF]](https://ieeexplore.ieee.org/document/9920203)
